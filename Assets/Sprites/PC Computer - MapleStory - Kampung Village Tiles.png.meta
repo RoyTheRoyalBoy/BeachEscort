@@ -1,0 +1,1350 @@
+fileFormatVersion: 2
+guid: 88af6f74db4a5bc49b0c12d0cb9d8b6c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Kampung Village Tiles_0
+    21300002: PC Computer - MapleStory - Kampung Village Tiles_1
+    21300004: PC Computer - MapleStory - Kampung Village Tiles_2
+    21300006: PC Computer - MapleStory - Kampung Village Tiles_3
+    21300008: PC Computer - MapleStory - Kampung Village Tiles_4
+    21300010: PC Computer - MapleStory - Kampung Village Tiles_5
+    21300012: PC Computer - MapleStory - Kampung Village Tiles_6
+    21300014: PC Computer - MapleStory - Kampung Village Tiles_7
+    21300016: PC Computer - MapleStory - Kampung Village Tiles_8
+    21300018: PC Computer - MapleStory - Kampung Village Tiles_9
+    21300020: PC Computer - MapleStory - Kampung Village Tiles_10
+    21300022: PC Computer - MapleStory - Kampung Village Tiles_11
+    21300024: PC Computer - MapleStory - Kampung Village Tiles_12
+    21300026: PC Computer - MapleStory - Kampung Village Tiles_13
+    21300028: PC Computer - MapleStory - Kampung Village Tiles_14
+    21300030: PC Computer - MapleStory - Kampung Village Tiles_15
+    21300032: PC Computer - MapleStory - Kampung Village Tiles_16
+    21300034: PC Computer - MapleStory - Kampung Village Tiles_17
+    21300036: PC Computer - MapleStory - Kampung Village Tiles_18
+    21300038: PC Computer - MapleStory - Kampung Village Tiles_19
+    21300040: PC Computer - MapleStory - Kampung Village Tiles_20
+    21300042: PC Computer - MapleStory - Kampung Village Tiles_21
+    21300044: PC Computer - MapleStory - Kampung Village Tiles_22
+    21300046: PC Computer - MapleStory - Kampung Village Tiles_23
+    21300048: PC Computer - MapleStory - Kampung Village Tiles_24
+    21300050: PC Computer - MapleStory - Kampung Village Tiles_25
+    21300052: PC Computer - MapleStory - Kampung Village Tiles_26
+    21300054: PC Computer - MapleStory - Kampung Village Tiles_27
+    21300056: PC Computer - MapleStory - Kampung Village Tiles_28
+    21300058: PC Computer - MapleStory - Kampung Village Tiles_29
+    21300060: PC Computer - MapleStory - Kampung Village Tiles_30
+    21300062: PC Computer - MapleStory - Kampung Village Tiles_31
+    21300064: PC Computer - MapleStory - Kampung Village Tiles_32
+    21300066: PC Computer - MapleStory - Kampung Village Tiles_33
+    21300068: PC Computer - MapleStory - Kampung Village Tiles_34
+    21300070: PC Computer - MapleStory - Kampung Village Tiles_35
+    21300072: PC Computer - MapleStory - Kampung Village Tiles_36
+    21300074: PC Computer - MapleStory - Kampung Village Tiles_37
+    21300076: PC Computer - MapleStory - Kampung Village Tiles_38
+    21300078: PC Computer - MapleStory - Kampung Village Tiles_39
+    21300080: PC Computer - MapleStory - Kampung Village Tiles_40
+    21300082: PC Computer - MapleStory - Kampung Village Tiles_41
+    21300084: PC Computer - MapleStory - Kampung Village Tiles_42
+    21300086: PC Computer - MapleStory - Kampung Village Tiles_43
+    21300088: PC Computer - MapleStory - Kampung Village Tiles_44
+    21300090: PC Computer - MapleStory - Kampung Village Tiles_45
+    21300092: PC Computer - MapleStory - Kampung Village Tiles_46
+    21300094: PC Computer - MapleStory - Kampung Village Tiles_47
+    21300096: PC Computer - MapleStory - Kampung Village Tiles_48
+    21300098: PC Computer - MapleStory - Kampung Village Tiles_49
+    21300100: PC Computer - MapleStory - Kampung Village Tiles_50
+    21300102: PC Computer - MapleStory - Kampung Village Tiles_51
+    21300104: PC Computer - MapleStory - Kampung Village Tiles_52
+    21300106: PC Computer - MapleStory - Kampung Village Tiles_53
+    21300108: PC Computer - MapleStory - Kampung Village Tiles_54
+    21300110: PC Computer - MapleStory - Kampung Village Tiles_55
+    21300112: PC Computer - MapleStory - Kampung Village Tiles_56
+    21300114: PC Computer - MapleStory - Kampung Village Tiles_57
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 278
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd96c784e0fa71b4aaeb9185f512747a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 278
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee7e3133ca0eb4f95f3d62932ab77e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 278
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b1918d8640fc45bff28545970dd1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 278
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa03e71af253a3478372d84068a9cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 278
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6032014f0f2bc448ace0b92e7ab402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 278
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e676851cc51d6c94eacb72c9e3582697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 238
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a330543774bd040ab6ddae695e2a26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 238
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10485dfb1f2e89439b77168e2232d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 238
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf1063237d9cf48be4254b7e4525e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 238
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d2a55bc2f27244baa2c94995b9a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 238
+        width: 90
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a72c3fc19865546a59ba89aacfa032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 254
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637203fc61e55547a72c7ed27c189cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 251
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c06a11c7594fd46a88fa744787d586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 251
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63fd7da241ec74a9d1075e1217af9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 254
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9652b6fcebc7345b1b30d46d0ff449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 254
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af447f5fdc4719488ba9327e8f76caf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 254
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d53c76ae027a244bad1a4e9a23a891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 251
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf91e21cbc1f4b34fb1d56e30dc46cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 254
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9580e1d0c8a4642b4c00559fcfb0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 254
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63afa6d86242e554ebc0bb2f2a3d52f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 251
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a4ec8802a0c61429597fcb04290044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 254
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e513c6b381e6f1409154588f33db737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 254
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8cc9a563044e34aa9dd603149cdcda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 254
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22edd15caeb6844448ca4f50e56e0f2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 238
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650af872be0dce145ae4ace4da92c63e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f831ab52317f444bafb9722ea15072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 238
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbddb216a07efb6439ae6b157c071386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 238
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f86d7ecf75444cbb30d1c8620e088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 238
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1bad46e565230468b7be7f5058702b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 235
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cce38a8d63935468238fc133a69f8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 235
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af14d34fb8eabb4cb658ba42e35c5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e3b71362561a4f86c214398dd768e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 238
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf546f79341ac48aaeeb1d1325dd31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247585f216ca2848b5c28c4ff2d06c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 238
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22af0bf310e783245afabd390d5b64eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 238
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd51cf89f0907f243a607be302043957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 222
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c13b78d6dd66a49999d6f834b23d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 222
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dab87f426c54041a917859abd5315a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 219
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129bdba8096c68a4ba8e6330494f634e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 222
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b319f685660624883a856928ac66d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 222
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79f6544c4869a4289af14f941bf6fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 222
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1124eaa7448a304dbd65102da60dd02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 222
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494a4f5e68e3354d937b765ea0ceea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 222
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572c3fee2baa31c49a61b0d85aa6fe40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 192
+        width: 90
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcaeb025482f4b4a8d8bc0fa5f09cbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 172
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16286fd9c080677448a8ee1be3b0feb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 176
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a71a6997ac054a960659860c24ca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 158
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d602277f334ec44e96ea7824180e6cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 158
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb501b0c1e935e1448307eed433094f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 158
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4671a7f1de042a948b2da223d7c51995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 158
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0583462809d1024bb18ffd82450bc24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 39
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf3e6c119d3184a87907a90c34205e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 39
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300eaccf12fab2644a2b9873602a92d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 39
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ffb6a43d7f554c872098c18f3e8ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 39
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f1388acbc7be4dadc949254ea777d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e99d665e8eff354dba129a745758aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76879c3065537494a95e0069f0956c76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Kampung Village Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 6
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa95fb64ab14a4c92572296bd60cfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2aa829ddc6730244cb4703a12614639c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
