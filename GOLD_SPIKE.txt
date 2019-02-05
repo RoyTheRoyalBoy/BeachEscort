@@ -1,2 +1,0 @@
-The goal is to help the turtle avoid the sharks and get to the other side. 
-You have a limited time to move the objects at the top to give the turtle a path. 
